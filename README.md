@@ -10,7 +10,7 @@ To run the program, compile the Java files and run WelcomeGUI.
 
 ## Preview Images
 
-![Sudoku Welcome Screen](https://github.com/lewisrdrew/sudoku/blob/master/WelcomeGUI%20example.png)
-![Example of a preset grid](https://github.com/lewisrdrew/sudoku/blob/master/Sudoku%20example1.png)
-![Example of entering an invalid number](https://github.com/lewisrdrew/sudoku/blob/master/Sudoku%20example2.png)
-![Example of filling in a square correctly](https://github.com/lewisrdrew/sudoku/blob/master/Sudoku%20example3.png)
+![Sudoku Welcome Screen](https://github.com/lewisrdrew/sudoku/blob/master/images/WelcomeGUI%20example.png)
+![Example of a preset grid](https://github.com/lewisrdrew/sudoku/blob/master/images/Sudoku%20example1.png)
+![Example of entering an invalid number](https://github.com/lewisrdrew/sudoku/blob/master/images/Sudoku%20example2.png)
+![Example of filling in a square correctly](https://github.com/lewisrdrew/sudoku/blob/master/images/Sudoku%20example3.png)
